@@ -1,0 +1,34 @@
+.backgray{
+    background-color: bisque;
+}
+.box1{
+    background-color:#83f3e7;
+    width: 36%;
+    height: 80px;
+    float: left;
+    margin-top: 2px;
+    margin-right: 2px;  
+    text-align: center;
+}
+
+.box2 {
+    background-color:#83f3e7;
+    width: 20%;
+    height: 80px;
+    float: left;
+    margin-top: 2px;
+    margin-right: 2px;
+    text-align: center;
+}
+.box3{
+    background-color: #83f3e7;
+    width: 43.60608%;
+    height: 80px;
+    float: left;
+    text-align: center;
+    margin-top: 2px;
+    margin-right: 2px;
+}
+a{
+    color: blue;
+}
